@@ -57,7 +57,7 @@ export const AdminContacts = () => {
         <table>
           <thead>
             <tr>
-              <th>Username</th>
+              <th>Name</th>
               <th>Email</th>
               <th>Message</th>
               <th>Actions</th>
