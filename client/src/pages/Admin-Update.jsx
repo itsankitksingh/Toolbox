@@ -90,7 +90,7 @@ export const AdminUpdate = () => {
                 <section className="section-form">
                     <form onSubmit={handleSubmit}>
                         <div>
-                            <label htmlFor="username">username</label>
+                            <label htmlFor="username">Name</label>
                             <input
                                 type="text"
                                 name="username"
